@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+body,
+html {
+  color: #eb2525;
+  background-color: #170202;
+}
+
+::selection {
+  background: rgba(235, 37, 37, 0.09);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #fff;
+  font-family: var(--font-slab) !important;
+}
+
+p {
+  color: #eb2525;
+  font-family: var(--font-roboto) !important;
+}
+
+a,
+a > p,
+a > svg {
+  color: #fff;
+  font-family: var(--font-roboto) !important;
+}
+
+a:hover,
+a > p:hover {
+  color: #eb2525;
+}
