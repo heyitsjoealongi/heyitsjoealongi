@@ -1,3 +1,11 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "heyitsjoealongi",
+  description:
+    "Leading end-to-end application development throughout the agile lifecycle.",
+};
+
 export default function Page() {
   return (
     <section>
