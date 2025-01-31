@@ -151,8 +151,8 @@ table {
 
 body,
 html {
-  color: #eb2525;
-  background-color: #170202;
+  color: #003f88;
+  background-color: #0c090d;
 }
 
 ::selection {
@@ -165,23 +165,23 @@ h3,
 h4,
 h5,
 h6 {
-  color: #fff;
+  color: #dad2d8;
   font-family: var(--font-slab) !important;
 }
 
 p {
-  color: #eb2525;
+  color: #003f88;
   font-family: var(--font-roboto) !important;
 }
 
 a,
 a > p,
 a > svg {
-  color: #fff;
+  color: #dad2d8;
   font-family: var(--font-roboto) !important;
 }
 
 a:hover,
 a > p:hover {
-  color: #eb2525;
+  color: #003f88;
 }
