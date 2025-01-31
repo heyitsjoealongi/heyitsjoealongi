@@ -1,17 +1,3 @@
-import type { Metadata } from "next";
-
-export const metadata: Metadata = {
-  title: "heyitsjoealongi",
-  description:
-    "Leading end-to-end application development throughout the agile lifecycle.",
-  openGraph: {
-    title: "heyitsjoealongi",
-    description:
-      "Leading end-to-end application development throughout the agile lifecycle",
-    images: ["/heyitsjoealongi.png"],
-  },
-};
-
 export default function Page() {
   return (
     <section>
