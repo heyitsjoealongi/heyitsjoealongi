@@ -40,7 +40,7 @@ export default function RootLayout({
         content="https://heyitsjoealongi.com/heyitsjoealongi.png"
       />
       <body className="max-w-xl mt-[9vh] mx-9 lg:mx-auto">
-        <main className="flex-auto min-w-0 mt-6 flex flex-col px-2 md:px-0">
+        <main className="flex flex-col flex-auto min-w-0 mt-6 px-2 md:px-0">
           {children}
           <Footer />
           <Analytics />

@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <section>
-      <h1 className="uppercase text-xl min-[2000px]:text-3xl font-slab font-medium subpixel-antialiased mx-auto max-w-xl">
+      <h1 className="max-w-xl mx-auto uppercase text-xl min-[2000px]:text-3xl font-slab font-medium subpixel-antialiased">
         heyitsjoealongi
       </h1>
       <p className="my-3 lg:my-6 text-xl lg:text-3xl font-extralight subpixel-antialiased">
