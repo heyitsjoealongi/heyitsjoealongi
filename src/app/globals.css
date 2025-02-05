@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+} */
+
+body,
+html {
+  color: #003f88;
+  background-color: #0c090d;
+}
+
+::selection {
+  background: #003f88;
+  opacity: 0.09;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #dad2d8;
+  font-family: var(--font-roboto-slab) !important;
+}
+
+p {
+  color: #003f88;
+  font-family: var(--font-roboto) !important;
+}
+
+a,
+a > p,
+a > svg {
+  color: #dad2d8;
+  font-family: var(--font-roboto) !important;
+}
+
+a:hover,
+a > p:hover {
+  color: #003f88;
+}
