@@ -26,19 +26,19 @@ h4,
 h5,
 h6 {
   color: #dad2d8;
-  font-family: var(--font-roboto-slab) !important;
+  font-family: "Roboto Slab", serif;
 }
 
 p {
   color: #003f88;
-  font-family: var(--font-roboto) !important;
+  font-family: "Roboto", serif;
 }
 
 a,
 a > p,
 a > svg {
   color: #dad2d8;
-  font-family: var(--font-roboto) !important;
+  font-family: "Roboto", serif;
 }
 
 a:hover,

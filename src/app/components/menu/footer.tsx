@@ -24,10 +24,10 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://bitsbythebyte.pub/"
+            href="https://github.com/heyitsjoealongi/"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">blog</p>
+            <p className="ml-2 h-7">github</p>
           </a>
         </li>
         <li>
@@ -46,10 +46,10 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://github.com/heyitsjoealongi/"
+            href="https://www.linkedin.com/in/heyitsjoealongi/"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">github</p>
+            <p className="ml-2 h-7">linkedin</p>
           </a>
         </li>
         <li>
@@ -57,10 +57,21 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://www.linkedin.com/in/heyitsjoealongi/"
+            href="https://bitsbythebyte.pub/"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">linkedin</p>
+            <p className="ml-2 h-7">blog</p>
+          </a>
+        </li>
+        <li>
+          <a
+            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://www.youtube.com/@heyitsjoealongi/"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">vlog</p>
           </a>
         </li>
       </ul>
