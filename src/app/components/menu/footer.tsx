@@ -46,10 +46,10 @@ export default function Footer() {
             className="flex items-center transition-all"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://www.linkedin.com/in/heyitsjoealongi/"
+            href="https://www.instagram.com/heyitsjoealongi/"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">linkedin</p>
+            <p className="ml-2 h-7">instagram</p>
           </a>
         </li>
         <li>
