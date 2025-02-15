@@ -18,10 +18,21 @@ function ArrowIcon() {
 export default function Footer() {
   return (
     <footer className="mb-16">
-      <ul className="font-sm mt-8 flex flex-col space-x-0 space-y-2 text-neutral-600 md:flex-row md:space-x-4 md:space-y-0 dark:text-neutral-300">
+      <ul className="font-sm mt-8 flex flex-col space-x-0 space-y-2 md:flex-row md:space-x-4 md:space-y-0">
         <li>
           <a
-            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            className="flex items-center transition-all"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://warpcast.com/heyitsjoealongi/"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">warpcast</p>
+          </a>
+        </li>
+        <li>
+          <a
+            className="flex items-center transition-all"
             rel="noopener noreferrer"
             target="_blank"
             href="https://github.com/heyitsjoealongi/"
@@ -32,18 +43,7 @@ export default function Footer() {
         </li>
         <li>
           <a
-            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://x.com/heyitsjoealongi/"
-          >
-            <ArrowIcon />
-            <p className="ml-2 h-7">x</p>
-          </a>
-        </li>
-        <li>
-          <a
-            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            className="flex items-center transition-all"
             rel="noopener noreferrer"
             target="_blank"
             href="https://www.linkedin.com/in/heyitsjoealongi/"
@@ -54,28 +54,28 @@ export default function Footer() {
         </li>
         <li>
           <a
-            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            className="flex items-center transition-all"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://bitsbythebyte.pub/"
+            href="https://paragraph.xyz/@heyitsjoealongi/"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">blog</p>
+            <p className="ml-2 h-7">paragraph</p>
           </a>
         </li>
         <li>
           <a
-            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            className="flex items-center transition-all"
             rel="noopener noreferrer"
             target="_blank"
             href="https://www.youtube.com/@heyitsjoealongi/"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">vlog</p>
+            <p className="ml-2 h-7">youtube</p>
           </a>
         </li>
       </ul>
-      <p className="mt-8 text-neutral-600 dark:text-neutral-300">
+      <p className="copyright mt-8 text-xs">
         © {new Date().getFullYear()} Joe Alongi
       </p>
     </footer>
