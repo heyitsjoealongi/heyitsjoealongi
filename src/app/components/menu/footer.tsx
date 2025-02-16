@@ -35,6 +35,28 @@ export default function Footer() {
             className="flex items-center transition-all"
             rel="noopener noreferrer"
             target="_blank"
+            href="https://status.app/u/GzAAAERP1l9sstDVZENh86IHkUWYg3S1faqHQzK-eD3xTOpSS3I7KYgo#zQ3shQCF9dPQ3db7PXNcjCJdrGGCAym3LQtXA4mchwMZ5JBDm"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">status</p>
+          </a>
+        </li>
+        <li>
+          <a
+            className="flex items-center transition-all"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://paragraph.xyz/@heyitsjoealongi/"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">paragraph</p>
+          </a>
+        </li>
+        <li>
+          <a
+            className="flex items-center transition-all"
+            rel="noopener noreferrer"
+            target="_blank"
             href="https://github.com/heyitsjoealongi/"
           >
             <ArrowIcon />
@@ -50,17 +72,6 @@ export default function Footer() {
           >
             <ArrowIcon />
             <p className="ml-2 h-7">instagram</p>
-          </a>
-        </li>
-        <li>
-          <a
-            className="flex items-center transition-all"
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://paragraph.xyz/@heyitsjoealongi/"
-          >
-            <ArrowIcon />
-            <p className="ml-2 h-7">paragraph</p>
           </a>
         </li>
         <li>
