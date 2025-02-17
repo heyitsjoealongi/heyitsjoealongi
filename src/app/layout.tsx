@@ -64,6 +64,21 @@ export default function RootLayout({
           href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
           rel="stylesheet"
         />
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-JYXJMD14PQ"
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-JYXJMD14PQ');
+          `,
+          }}
+        />
+        <script></script>
       </head>
       <body className="max-w-xl mt-[9vh] mx-9 lg:mx-auto">
         <main className="flex flex-col flex-auto min-w-0 mt-6 px-2 md:px-0">

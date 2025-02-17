@@ -24,10 +24,10 @@ export default function Footer() {
             className="flex items-center transition-all"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://warpcast.com/heyitsjoealongi/"
+            href="https://blog.heyitsjoealongi.com/"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">warpcast</p>
+            <p className="ml-2 h-7">blog</p>
           </a>
         </li>
         <li>
@@ -35,32 +35,10 @@ export default function Footer() {
             className="flex items-center transition-all"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://status.app/u/GzAAAERP1l9sstDVZENh86IHkUWYg3S1faqHQzK-eD3xTOpSS3I7KYgo#zQ3shQCF9dPQ3db7PXNcjCJdrGGCAym3LQtXA4mchwMZ5JBDm"
+            href="https://x.com/heyitsjoealongi/"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">status</p>
-          </a>
-        </li>
-        <li>
-          <a
-            className="flex items-center transition-all"
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://paragraph.xyz/@heyitsjoealongi/"
-          >
-            <ArrowIcon />
-            <p className="ml-2 h-7">paragraph</p>
-          </a>
-        </li>
-        <li>
-          <a
-            className="flex items-center transition-all"
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://github.com/heyitsjoealongi/"
-          >
-            <ArrowIcon />
-            <p className="ml-2 h-7">github</p>
+            <p className="ml-2 h-7">x</p>
           </a>
         </li>
         <li>
@@ -79,10 +57,32 @@ export default function Footer() {
             className="flex items-center transition-all"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://www.youtube.com/@heyitsjoealongi/"
+            href="https://github.com/heyitsjoealongi/"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">youtube</p>
+            <p className="ml-2 h-7">github</p>
+          </a>
+        </li>
+        <li>
+          <a
+            className="flex items-center transition-all"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://www.linkedin.com/in/heyitsjoealongi/"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">linkedin</p>
+          </a>
+        </li>
+        <li>
+          <a
+            className="flex items-center transition-all"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://signal.me/#eu/nZcmLthpHSDnuqFj2bA7XGO0l4EZyK2Lgiv5m5pp9oNl-yy23qNHXp21FCL5sPTC/"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">signal</p>
           </a>
         </li>
       </ul>
