@@ -46,10 +46,10 @@ export default function Footer() {
             className="flex items-center transition-all"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://www.instagram.com/heyitsjoealongi/"
+            href="https://github.com/heyitsjoealongi/"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">instagram</p>
+            <p className="ml-2 h-7">github</p>
           </a>
         </li>
         <li>
@@ -57,10 +57,10 @@ export default function Footer() {
             className="flex items-center transition-all"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://github.com/heyitsjoealongi/"
+            href="https://www.instagram.com/heyitsjoealongi/"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">github</p>
+            <p className="ml-2 h-7">instagram</p>
           </a>
         </li>
         <li>
@@ -79,10 +79,10 @@ export default function Footer() {
             className="flex items-center transition-all"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://signal.me/#eu/nZcmLthpHSDnuqFj2bA7XGO0l4EZyK2Lgiv5m5pp9oNl-yy23qNHXp21FCL5sPTC/"
+            href="https://www.youtube.com/@heyitsjoealongi/"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">signal</p>
+            <p className="ml-2 h-7">youtube</p>
           </a>
         </li>
       </ul>

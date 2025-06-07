@@ -14,14 +14,14 @@ export default function RootLayout({
         <meta name="title" content="heyitsjoealongi" />
         <meta
           name="description"
-          content="Leading end-to-end application development throughout the agile lifecycle."
+          content="Advising on resilience, engineering security, and shaping what’s next."
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://heyitsjoealongi.com/" />
         <meta property="og:title" content="heyitsjoealongi" />
         <meta
           property="og:description"
-          content="Leading end-to-end application development throughout the agile lifecycle."
+          content="Advising on resilience, engineering security, and shaping what’s next."
         />
         <meta
           property="og:image"
@@ -32,7 +32,7 @@ export default function RootLayout({
         <meta property="twitter:title" content="heyitsjoealongi" />
         <meta
           property="twitter:description"
-          content="Leading end-to-end application development throughout the agile lifecycle."
+          content="Advising on resilience, engineering security, and shaping what’s next."
         />
         <meta
           property="twitter:image"
