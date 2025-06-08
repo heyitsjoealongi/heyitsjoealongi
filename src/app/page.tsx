@@ -8,12 +8,12 @@ export default function Home() {
         Advising on resilience, engineering security, and shaping what’s next.
       </h3>
       <p className="text-md lg:text-lg font-extralight subpixel-antialiased">
-        Leading end-to-end application development throughout the agile
-        lifecycle. Coding in JavaScript, TypeScript, Java, C#/.NET, Python, SQL,
-        and NoSQL for cloud native applications and on-premises systems.
-        Implementing containerized applications, microservices, data streaming
-        solutions, and machine learning. Supporting cloud implementation,
-        application modernization, and hybrid cloud transformation.
+        Developing modern applications from code to cloud in JavaScript,
+        TypeScript, Java, C#/.NET, Python, SQL, and NoSQL. Building cloud-native
+        and on-prem systems with containers and machine learning. Streamlining
+        delivery with agile development, hybrid transformation, and effective
+        development operation processes. Enhancing applications with modern code
+        and intelligent systems—ready for today, built for tomorrow.
       </p>
     </section>
   );
