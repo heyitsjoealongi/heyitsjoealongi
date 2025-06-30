@@ -1,7 +1,7 @@
 <template>
   <footer>
     <ul
-      class="avalinginc-theme-footer flex flex-col md:flex-row flex-auto my-3"
+      class="heyitsjoealongi-theme-footer flex flex-col md:flex-row flex-auto my-3"
     >
       <li class="flex items-center">
         <a
@@ -10,7 +10,11 @@
           target="_blank"
           href="https://blog.heyitsjoealongi.com/"
         >
-          <p class="mr-6 text-base antialiased font-black text-left">blog</p>
+          <p
+            class="mb-3 md:mb-0 md:mr-6 text-base antialiased font-black text-left"
+          >
+            blog
+          </p>
         </a>
       </li>
       <li class="flex items-center">
@@ -20,7 +24,11 @@
           target="_blank"
           href="https://x.com/heyitsjoealongi/"
         >
-          <p class="mr-6 text-base antialiased font-black text-left">x</p>
+          <p
+            class="mb-3 md:mb-0 md:mr-6 text-base antialiased font-black text-left"
+          >
+            x
+          </p>
         </a>
       </li>
       <li class="flex items-center">
@@ -30,7 +38,11 @@
           target="_blank"
           href="https://github.com/heyitsjoealongi/"
         >
-          <p class="mr-6 text-base antialiased font-black text-left">github</p>
+          <p
+            class="mb-3 md:mb-0 md:mr-6 text-base antialiased font-black text-left"
+          >
+            github
+          </p>
         </a>
       </li>
       <li class="flex items-center">
@@ -40,7 +52,9 @@
           target="_blank"
           href="https://www.instagram.com/heyitsjoealongi/"
         >
-          <p class="mr-6 text-base antialiased font-black text-left">
+          <p
+            class="mb-3 md:mb-0 md:mr-6 text-base antialiased font-black text-left"
+          >
             instagram
           </p>
         </a>
@@ -52,7 +66,9 @@
           target="_blank"
           href="https://www.linkedin.com/in/heyitsjoealongi/"
         >
-          <p class="mr-6 text-base antialiased font-black text-left">
+          <p
+            class="mb-3 md:mb-0 md:mr-6 text-base antialiased font-black text-left"
+          >
             linkedin
           </p>
         </a>
@@ -64,7 +80,11 @@
           target="_blank"
           href="https://www.youtube.com/@heyitsjoealongi/"
         >
-          <p class="mr-9 text-base antialiased font-black text-left">youtube</p>
+          <p
+            class="mb-3 md:mb-0 md:mr-6 text-base antialiased font-black text-left"
+          >
+            youtube
+          </p>
         </a>
       </li>
     </ul>

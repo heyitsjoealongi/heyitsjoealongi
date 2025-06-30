@@ -19,7 +19,8 @@ export default defineNuxtConfig({
       "@nuxtjs/google-fonts",
       {
         families: {
-          RobotoMono: true,
+          Roboto: true,
+          "Roboto Slab": true,
         },
       },
     ],
@@ -29,6 +30,6 @@ export default defineNuxtConfig({
   ],
   css: ["~/assets/css/main.css"],
   gtag: {
-    id: "G-1MEPB6W87X",
+    id: "G-JYXJMD14PQ",
   },
 });

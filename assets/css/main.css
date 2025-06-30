@@ -3,12 +3,16 @@
 
 body,
 html {
-  color: #0c0a09;
-  background-color: #fafaf9;
+  color: #305cde;
+  background-color: #0c090d;
+}
+
+li:last-child > a > p {
+  margin-bottom: 0;
 }
 
 ::selection {
-  background: #0c0a09;
+  background: #305cde;
 }
 
 h1,
@@ -17,26 +21,26 @@ h3,
 h4,
 h5,
 h6 {
-  color: #0c0a09;
-  font-family: "Roboto Mono", monospace;
+  color: #dad2d8;
+  font-family: "Roboto Serif", serif;
 }
 
 p {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Roboto", serif;
 }
 
-.avalinginc-theme-copyright {
-  font-family: "Roboto Mono", monospace;
+.heyitsjoealongi-theme-copyright {
+  font-family: "Roboto Serif", serif;
 }
 
 a,
 a > p,
 a > svg {
-  color: #0c0a09;
-  font-family: "Roboto Mono", monospace;
+  color: #dad2d8;
+  font-family: "Roboto", serif;
 }
 
 a:hover,
 a > p:hover {
-  color: #78716c;
+  color: #305cde;
 }
