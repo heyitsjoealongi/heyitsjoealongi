@@ -1,0 +1,42 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+body,
+html {
+  color: #0c0a09;
+  background-color: #fafaf9;
+}
+
+::selection {
+  background: #0c0a09;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #0c0a09;
+  font-family: "Roboto Mono", monospace;
+}
+
+p {
+  font-family: "Roboto Mono", monospace;
+}
+
+.avalinginc-theme-copyright {
+  font-family: "Roboto Mono", monospace;
+}
+
+a,
+a > p,
+a > svg {
+  color: #0c0a09;
+  font-family: "Roboto Mono", monospace;
+}
+
+a:hover,
+a > p:hover {
+  color: #78716c;
+}
